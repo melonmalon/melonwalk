@@ -1,5 +1,5 @@
 navbar_entries:
-  - title: about
+  - title: あばうと
     url: about
 
   - title: blog
@@ -9,31 +9,31 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
+  - title: ラプラス変換
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: 基本的な公式から問題演習まで
 
-  - title: Project 2
+  - title: フーリエ解析
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: 準備中
 
-  - title: Project 3
+  - title: 熱力学の基礎　第２版　
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: まずはⅠ熱力学の基本構造から
 
-  - title: Project 4
+  - title: 入試問題
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: 気が向いたときに更新
     highlight: WIP
 
-  - title: Project 5
+  - title: 統計学
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: 色々ひと段落ついたら
     highlight: WIP
 
-  - title: Project 6
+  - title: 掃きだめ
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: 
 
 old_project_entries:
   - title: Soopr

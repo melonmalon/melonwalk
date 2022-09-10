@@ -1,0 +1,45 @@
+= ゼミ第1回
+:page-author: melonmalon
+:page-layout: post
+:page-categories:  [ "熱力学 2022"]
+:page-tags: ["議事録"]
+:page-image:  assets/images/thermodynamics_2022/seminar-01.jpg
+:page-permalink: thermodynamics_2022/seminar-01
+:sectnums:
+:sectnumlevels: 2
+:dummy: {counter2:section:0}
+
+== 時間
+:dummy: {counter2:section}
+:num: 0
+
+10:00-15:00
+
+== 参加者
+:dummy: {counter2:section}
+:num: 0
+
+
+
+== 内容
+:dummy: {counter2:section}
+:num: 0
+
+発表者::
+永作
+
+範囲::
+9~10p
+
+内容::
+
+
+== 次回の範囲
+
+発表者::
+内藤
+
+範囲::
+p18~p19
+
+内容::
