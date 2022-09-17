@@ -12,9 +12,10 @@ project_entries:
   - title: ラプラス変換
     url: overview-post
     desc: 基本的な公式から問題演習まで
+    date: 2022-09-01-2022-09-10
 
   - title: フーリエ解析
-    url: overview-post
+    url: fourier analysis
     desc: 準備中
 
   - title: 熱力学の基礎　第２版　
@@ -27,9 +28,8 @@ project_entries:
     highlight: WIP
 
   - title: 統計学
-    url: overview-post
+    url: tt
     desc: 色々ひと段落ついたら
-    highlight: WIP
 
   - title: 掃きだめ
     url: overview-post
@@ -54,14 +54,8 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
-
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/melonmalon
 
   - title: feed
     url: feed.xml

@@ -1,0 +1,14 @@
+= フーリエ解析
+:page-author: melonmalon
+:page-layout: post
+:page-permalink: Fourier analysis
+:sectnums:
+:sectnumlevels: 2
+:dummy: {counter2:section:0}
+
+== フーリエ級数
+
+定義（フーリエ級数展開）
+\(\displaystyle f(x) = \frac{a_0}{2}+ sum_{n=1}^\{\infty} (a_{n}\(\sin\))\)
+
+

@@ -2,14 +2,14 @@
   {% for item in include.collection %}
 
     <li class="card">
-      <a href="{{ item.url }}">
         <span class="header">
+          <a href="{{ item.url }}">
           {{ item.title }}
 
           {% if item.highlight %}
             <mark>{{ item.highlight }}</mark>
           {% endif %}
-
+        </a>
         </span>
 
         <hr />
@@ -17,9 +17,15 @@
         {% if item.desc != false %}
         <p class="body">
           {{ item.desc }}
+          
         </p>
         {% endif %}
-      </a>
+
+        {% if item.date != false %}
+      <p class="body">
+        {{item.date}}<br>{{item.date}}
+      </p>
+      {% endif %}
     </li>
 
   {% endfor %}

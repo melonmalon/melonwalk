@@ -4,3 +4,20 @@
 @import "moonwalk";
 @import "list";
 @import "syntax";
+
+.post-list{
+    background-color: lightgray;
+}
+
+#post-list{
+    background-color: red;
+}
+
+#time{
+    text-decoration: line-through;
+}
+
+.contents{
+    border: 1px solid black;
+    border-radius: 3mm;
+}
